@@ -1,10 +1,8 @@
 # Private Streaming Service
 
-_"Shared storage and a new market"_
+_"Find what you love — buy via a direct payment to creators — store and access anywhere."_
 
 The goal is to build a new market for digital art, movies, series, documentaries and music that can be sold as a direct digital copy to anyone, anywhere, effortlessly.
-
-_"Find what you love — buy via a direct payment to creators — store and access anywhere."_
 
 ---
 
