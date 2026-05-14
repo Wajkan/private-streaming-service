@@ -2,7 +2,7 @@
 
 _"Find what you love — buy via a direct payment to creators — store and access anywhere."_
 
-The goal is to build a new market for digital art, movies, series, documentaries and music that can be sold as a direct digital copy to anyone, anywhere, effortlessly.
+The goal is to build a new market where digital art — music, movies, series and more — can be sold as a direct digital copy to anyone, anywhere, effortlessly.
 
 ---
 
@@ -21,7 +21,7 @@ A fair space that users and creators can share, independent of anything else.
 - Media player — Watch movies, series and documentaries from your library
 - Music player — Stream and store your music collection
 - Books — Read and collect digital books
-- Digital art — Own and display digital art as a direct purchase
+- Digital art — Own and display digital art
 - Private library — Everything you own, stored and accessible anywhere
 
 ---
